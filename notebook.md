@@ -48,9 +48,9 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 ### Key Terms and Definitions
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |--|--|--|--|--|
-| Variable | A named container used to store a value that may change. | `var x = 5;` | A container for stuff. |  |
-| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | A Constant in a science expariment. |  |
-| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A container that holds only one type of data.. |  |
+| Variable | A named container used to store a value that may change. | `var x = 5;` | A container for stuff. | In main.dart, title: 'TSA Portfoilo' |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | A Constant in a science expariment. | In main.dart, const MyPortfolioApp({super.key)} |
+| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A container that holds only one type of data. | In main.dart, bool, debugShowCheckedModeBanner: false, |
 | String | A sequence of characters used to represent words or text. | `"Hello World"` | A text message. |  |
 | Integer | Whole number values. | `int age = 16;` | Basic math. |  |
 | Double | Number values with decimals. | `double age = 16.2;` | Hard math. |  |
@@ -98,8 +98,8 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | @override | This marks a method as one that’s replacing a method in a parent class. | `@override` | An override switch in a factory. | @override Widget build(BuildContext context) {final List<String> puppyUrls = [ |
 | build() | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` | A painter. | In info_card.dart, Widget build(buildContext context) { return Container( |
 | BuildContext | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` | A schedule. | In info_card.dart, Widget build(buildContext context) { return Container( |
-| super.key | A keyword used to pass a value to the parent widget. | `super.key` | Someone who passes a unique number to someone. |  |
-| const | A keyword that means the value won't change and is set once. | `const` | A set value. |  |
+| super.key | A keyword used to pass a value to the parent widget. | `super.key` | Someone who passes a unique number to someone. | In showcase.dart, const ShowcaseScreen({super.key}) |
+| const | A keyword that means the value won't change and is set once. | `const` | A set value. | In showcase.dart, const ShowcaseScreen({super.key}) |
 ---
 
 ## Personal Note 1
