@@ -51,8 +51,8 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | Variable | A named container used to store a value that may change. | `var x = 5;` | A container for stuff. | In main.dart, title: 'TSA Portfoilo' |
 | Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | A Constant in a science expariment. | In main.dart, const MyPortfolioApp({super.key)} |
 | Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A container that holds only one type of data. | In main.dart, bool, debugShowCheckedModeBanner: false, |
-| String | A sequence of characters used to represent words or text. | `"Hello World"` | A text message. |  |
-| Integer | Whole number values. | `int age = 16;` | Basic math. |  |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | A text message. | In home.dart, const Text('HI EVERYONE,\nWelcome to my', style: TextStyle( |
+| Integer | Whole number values. | `int age = 16;` | Basic math. | N/A |
 | Double | Number values with decimals. | `double age = 16.2;` | Hard math. |  |
 | Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | A yes or no question. |  |
 | List | A collection of values in a specific order. | `List<String> names = [];` | A list of questions, in an ordered test. |  |
