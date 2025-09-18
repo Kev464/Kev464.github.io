@@ -79,25 +79,25 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 ## Flutter Definitions
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |--|--|--|--|--|
-| main() | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | The alternator when the engine starts. |  |
-| MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | A painter and naviagtor in one. |  |
-| Scaffold | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` | A framework of a building. |  |
+| main() | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | The alternator when the engine starts. | In main.dart, void main() => runApp(MyPortfolioApp()); |
+| MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | A painter and naviagtor in one. | return MateruakAoo(debugShowCheckedModeBanner: false, title: 'TSA Portfolio' and more. |
+| Scaffold | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` | A framework of a building. | In showcase.dart, return Scaffold(body: Column(mainAxisAlignment: mainAxisAlignment.start, children: [ |
 | Column | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` | A pillar of text. |  |
 | Row | A widget that shows things side-by-side. | `Row(...)` | A line of text. |  |
-| Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` | HTML's boxer model. |  |
-| Text | A widget to display text on the screen. | `Text('Hello')` | Text. |  |
+| Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` | HTML's boxer model. | In info_card.dart, return Container(margin: const EdgeInsets.symmetric(vertical: 8, horizontal: 16), |
+| Text | A widget to display text on the screen. | `Text('Hello')` | Text. | in showcase.dart, text: "HERE'S A SHOWCASE\nOF ", style: TextStyle(color: Colors.white), |
 | Image.network | A widget to show an image using a link from the internet. | `Image.network('https://...')` | A network of pictures, like on google. |  |
-| ElevatedButton | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` | A button. |  |
-| onPressed | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` | A button's output. |  |
+| ElevatedButton | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` | A button. | In showcase.dart, ElevatedButton(onPressed: () => Navigator.pushNamed(context, '/alt'), |
+| onPressed | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` | A button's output. | In showcase.dart, onPressed: () => Navigator.pushNamed(context, '/alt'), |
 | StatelessWidget | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` | A still rock, that never moves. |  |
 | StatefulWidget | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` | Flowing water, can and will change. |  |
 | Naviagtor | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` | A skilled hiking guide. |  |
-| Padding | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` | A space around an ad on a billboard. |  |
+| Padding | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` | A space around an ad on a billboard. | In showcase.dart, Padding(padding: const EdgeInsets.only(left: 100.0), child: Column( |
 | Center | Aligns content in the center of the screen or container. | `Center(child: ...)` | Centering a sight. |  |
 | Wrap | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` | A space-saver who crams as much as possible into one box. |  |
 | @override | This marks a method as one that’s replacing a method in a parent class. | `@override` | An override switch in a factory. |  |
-| build() | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` | A painter. |  |
-| BuildContext | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` | A schedule. |  |
+| build() | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` | A painter. | In info_card.dart, Widget build(buildContext context) { return Container( |
+| BuildContext | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` | A schedule. | In info_card.dart, Widget build(buildContext context) { return Container( |
 | super.key | A keyword used to pass a value to the parent widget. | `super.key` | Someone who passes a unique number to someone. |  |
 | const | A keyword that means the value won't change and is set once. | `const` | A set value. |  |
 ---
