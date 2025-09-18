@@ -83,7 +83,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | A painter and naviagtor in one. | return MateruakAoo(debugShowCheckedModeBanner: false, title: 'TSA Portfolio' and more. |
 | Scaffold | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` | A framework of a building. | In showcase.dart, return Scaffold(body: Column(mainAxisAlignment: mainAxisAlignment.start, children: [ |
 | Column | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` | A pillar of text. | In showcase.dart, child: Column(children: [const Padding( |
-| Row | A widget that shows things side-by-side. | `Row(...)` | A line of text. |  |
+| Row | A widget that shows things side-by-side. | `Row(...)` | A line of text. | In info_card.dart, child: Row(children: [ClipRRect( |
 | Container | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` | HTML's boxer model. | In info_card.dart, return Container(margin: const EdgeInsets.symmetric(vertical: 8, horizontal: 16), |
 | Text | A widget to display text on the screen. | `Text('Hello')` | Text. | in showcase.dart, text: "HERE'S A SHOWCASE\nOF ", style: TextStyle(color: Colors.white), |
 | Image.network | A widget to show an image using a link from the internet. | `Image.network('https://...')` | A network of pictures, like on google. | In showcase.dart, child: Image.network(url, width: 100, height: 100, fit: BoxFit.cover), |
