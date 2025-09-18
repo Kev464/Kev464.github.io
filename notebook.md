@@ -178,7 +178,7 @@ When to use: Organize steps, notes, or key points.
 Numbered lists for sequences or steps.
 Bulleted lists for unordered ideas.
 
-✅ Example:
+Example:
 
 1. Define the class
 2. Write the main method
