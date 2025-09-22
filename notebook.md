@@ -54,7 +54,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | String | A sequence of characters used to represent words or text. | `"Hello World"` | A text message. | In home.dart, const Text('HI EVERYONE,\nWelcome to my', style: TextStyle( |
 | Integer | Whole number values. | `int age = 16;` | Basic math. | N/A |
 | Double | Number values with decimals. | `double age = 16.2;` | Hard math. | N/A |
-| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | A yes or no question. | N/A |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | A yes or no question. | In main.dart, debugShowCheckedModeBanner: false, |
 | List | A collection of values in a specific order. | `List<String> names = [];` | A list of questions, in an ordered test. | In showcase.dart, final List<String> puppyUrls = ['https://placedog.net/640/482?random', 'https://placedog.net/640/481?random', |
 | Null | A special value that means “nothing.” | `String? name = null;` | The funny number, used to break games sometimes. Baically void-lite. | N/A |
 | Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | A machine that does one thing. | N/A |
@@ -63,12 +63,12 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Where to put a specalized machine in a production line. | Can't really show a concept unless I show the whole program... |
 | Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | The structure of something. | in alt_design_screen.dart, class AltDesignScreen extends StatelessWidget {const AltDesignScreen({super.key}); |
 | Object | A specific version of a class. | `Dog myDog = Dog();` | A specific structure of something. | N/A |
-| Property | A variable that belongs to a class/object. | `String name;` | The substance of a coffee, or the amount of coffee in a cup. | N/A... ? |
-| Method | A function that belongs to a class. | `void bark() {}` | A studet making notes. |  |
-| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | When you enroll, you need to create a new student account. |  |
-| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | The engine under a hood of a car. |  |
-| Override | Changing how a built-in or inherited function behaves. | `@override` | An override switch for a water pump. |  |
-| Void | A function that does not return a value. | `void printMessage() {}` | A black hole. A vanishing point. A one way portal. |  | 
+| Property | A variable that belongs to a class/object. | `String name;` | The substance of a coffee, or the amount of coffee in a cup. | N/A |
+| Method | A function that belongs to a class. | `void bark() {}` | A studet making notes. | (?) In alt_design_screen.dart, class AltDesignScreen extends StatelessWidget { |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | When you enroll, you need to create a new student account. | N/A, unknown. |
+| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | The engine under a hood of a car. | Us looking in Flutter. |
+| Override | Changing how a built-in or inherited function behaves. | `@override` | An override switch for a water pump. | @override Widget build(BuildContext context) { |
+| Void | A function that does not return a value. | `void printMessage() {}` | A black hole. A vanishing point. A one way portal. | In main.dart, void main() => runApp(MyPortfolioApp()); | 
 ---
 
 ## Note 3
