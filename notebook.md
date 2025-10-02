@@ -1,6 +1,16 @@
 # My Coding Notebook
 Click here to learn more → [About Me](about.md)
 
+## Main Index
+- [Flutter Notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms and Definitions](#key-terms-and-defnitions)
+  - [Layout and Design Widgets](layout-and-design-widgets)
+  - [Definitions with Structures](#flutter-definitions-with-structures)
+- [Code Definitions](#code-definitions)
+- [Personal Notes](#personal-notes)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
 ## Note 1
 ### Flutter Notes
 
@@ -102,7 +112,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | const | A keyword that means the value won't change and is set once. | `const` | A set value. | In showcase.dart, const ShowcaseScreen({super.key}) |
 ---
 
-## Personal Note 1
+## Personal Notes
 ### BendGameStudios file system.
 
 ### Key Terms and Definitions
