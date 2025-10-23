@@ -1,4 +1,4 @@
-# My Coding Notebook
+<img width="1295" height="572" alt="image" src="https://github.com/user-attachments/assets/895461a1-50e9-480d-a235-39a119916ac4" /># My Coding Notebook
 Click here to learn more → [About Me](about.md)
 
 ## Main Index
@@ -11,7 +11,7 @@ Click here to learn more → [About Me](about.md)
 - [Personal Notes](#personal-notes)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-## Note 1
+## Note 1 Section 1
 ### Flutter Notes
 
 ### What is Flutter?
@@ -51,7 +51,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 - What widget adds space around content?
   Padding
   
-## Note 2
+## Note 2 Section 1
 ### Coding Notes
 
 ---
@@ -81,7 +81,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | Void | A function that does not return a value. | `void printMessage() {}` | A black hole. A vanishing point. A one way portal. | In main.dart, void main() => runApp(MyPortfolioApp()); | 
 ---
 
-## Note 3
+## Note 3 Section 1
 ### Coding Notes
 
 ---
@@ -112,6 +112,15 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | const | A keyword that means the value won't change and is set once. | `const` | A set value. | In showcase.dart, const ShowcaseScreen({super.key}) |
 ---
 
+## Note 1 Section 2
+### Java Notes
+| Term | Definition and Description | Base Structure | Real Life Example | App Example |
+|--|--|--|--|--|
+| Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |  |  |
+| import Scanner | Gives access to Scanner class, required at top | import java.util.Scanner; |  |  |
+| print line statement | Prints the content in the parenthesism adds line after | System.out.printIn("") |  |  |
+| print statement | Prints the content in the parenthesis, adds line after | System.o |  |  |
+|  |  |  |  |  |
 ## Personal Notes
 ### BendGameStudios file system.
 
