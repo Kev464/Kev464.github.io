@@ -1,4 +1,3 @@
-<img width="1295" height="572" alt="image" src="https://github.com/user-attachments/assets/895461a1-50e9-480d-a235-39a119916ac4" /># My Coding Notebook
 Click here to learn more → [About Me](about.md)
 
 ## Main Index
@@ -113,14 +112,19 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 ---
 
 ## Note 1 Section 2
+
+---
 ### Java Notes
-| Term | Definition and Description | Base Structure | Real Life Example | App Example |
-|--|--|--|--|--|
-| Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |  |  |
-| import Scanner | Gives access to Scanner class, required at top | import java.util.Scanner; |  |  |
-| print line statement | Prints the content in the parenthesism adds line after | System.out.printIn("") |  |  |
-| print statement | Prints the content in the parenthesis, adds line after | System.o |  |  |
-|  |  |  |  |  |
+| Term | Definition and Description | Base Structure |
+|--|--|--|
+| Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |
+| import Scanner | Gives access to Scanner class, required at top | import java.util.Scanner; |
+| print line statement | Prints the content in the parenthesism adds line after | System.out.printIn("") |
+| print statement | Prints the content in the parenthesis, adds line after | System.o |
+| input nextLine | Reads in a String from the user | input.nextLine(); |
+|  |  |  |
+| Arithmatic operators | (+ - * / %) Modules, returns the remainder from dividing |  |
+---
 ## Personal Notes
 ### BendGameStudios file system.
 
