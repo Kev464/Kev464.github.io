@@ -7,6 +7,8 @@ Click here to learn more → [About Me](about.md)
   - [Layout and Design Widgets](#layout-and-design-widgets)
   - [Definitions with Structures](#flutter-definitions-with-structures)
 - [Code Definitions](#code-definitions)
+- [Java Notes](#java-notes)
+  - 
 - [Personal Notes](#personal-notes)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -111,10 +113,10 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | const | A keyword that means the value won't change and is set once. | `const` | A set value. | In showcase.dart, const ShowcaseScreen({super.key}) |
 ---
 
-## Note 1 Section 2
+## Note 4 Section 1
+### Java Notes
 
 ---
-### Java Notes
 | Term | Definition and Description | Base Structure |
 |--|--|--|
 | Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |
@@ -125,11 +127,12 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | input nextInt | Reads in an int from the user | input.nextInt(); |
 | input nextDouble | Reads in a double (decimal) from the user | input.nextDouble90: |
 | input nextBoolean | Reads in a boolean (true/false) from the user | input.nextBoolean(); |
-| Arithmatic operators | (+ - * / %) Modules, returns the remainder from dividing | N/A |
-| Compound oprators | += -= *= /= %= ++ Applies the result to the variable | N/A |
+| Arithmatic operators | Modules, returns the remainder from dividing | + - * / % |
+| Compound oprators | Applies the result to the variable | += -= *= /= %= ++ |
 | Maximum int | The max value an int can hold: 2147483647 | integer.MAX_VALUE |
 | Minimum int | The minimun valuce can hold: -2147483648 | integer.MIN_VALUE |
 | Integer overflow | Whena value goes beyond the max or min value, it "wraps around" and becomes the opposite max. | N/A. |
+| Round-off error | An approximate of the actual value, result is rounded so it gits in the available bits. | N/A. |
 |  |  |  |
 ---
 ## Personal Notes
