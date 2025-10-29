@@ -8,7 +8,6 @@ Click here to learn more → [About Me](about.md)
   - [Definitions with Structures](#flutter-definitions-with-structures)
 - [Code Definitions](#code-definitions)
 - [Java Notes](#java-notes)
-  - 
 - [Personal Notes](#personal-notes)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -117,6 +116,7 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 ### Java Notes
 
 ---
+## Java Definitions
 | Term | Definition and Description | Base Structure |
 |--|--|--|
 | Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |
