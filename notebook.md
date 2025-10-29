@@ -119,11 +119,18 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 |--|--|--|
 | Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |
 | import Scanner | Gives access to Scanner class, required at top | import java.util.Scanner; |
-| print line statement | Prints the content in the parenthesism adds line after | System.out.printIn("") |
-| print statement | Prints the content in the parenthesis, adds line after | System.o |
+| print line statement | Prints the content in the parenthesism adds line after | System.out.println("") |
+| print statement | Prints the content in the parenthesis, adds line after | System.out.print(""); |
 | input nextLine | Reads in a String from the user | input.nextLine(); |
+| input nextInt | Reads in an int from the user | input.nextInt(); |
+| input nextDouble | Reads in a double (decimal) from the user | input.nextDouble90: |
+| input nextBoolean | Reads in a boolean (true/false) from the user | input.nextBoolean(); |
+| Arithmatic operators | (+ - * / %) Modules, returns the remainder from dividing | N/A |
+| Compound oprators | += -= *= /= %= ++ Applies the result to the variable | N/A |
+| Maximum int | The max value an int can hold: 2147483647 | integer.MAX_VALUE |
+| Minimum int | The minimun valuce can hold: -2147483648 | integer.MIN_VALUE |
+| Integer overflow | Whena value goes beyond the max or min value, it "wraps around" and becomes the opposite max. | N/A. |
 |  |  |  |
-| Arithmatic operators | (+ - * / %) Modules, returns the remainder from dividing |  |
 ---
 ## Personal Notes
 ### BendGameStudios file system.
