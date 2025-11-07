@@ -134,7 +134,8 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | Integer overflow | Whena value goes beyond the max or min value, it "wraps around" and becomes the opposite max. | N/A. |
 | Round-off error | An approximate of the actual value, result is rounded so it gits in the available bits. | N/A. |
 | Overloaded method/function or constructor | Uses the same name, but has different parameters. | Pizza(), Pizza(String toppimgs) 2 constructors, first is a default cheeze pizza, 2nd has 1 topping. |
-|  |  |  |
+| Dot Notation | Methods are called on objects using a dot after the pbject name. | object.method(value); |
+| Concatenate | To combine strings with other strings and/or variables | String greeting = "Hello " +"My name is " + name + "."; |
 ---
 ## Personal Notes
 ### BendGameStudios file system.
