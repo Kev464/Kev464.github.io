@@ -136,6 +136,19 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
 | Overloaded method/function or constructor | Uses the same name, but has different parameters. | Pizza(), Pizza(String toppimgs) 2 constructors, first is a default cheeze pizza, 2nd has 1 topping. |
 | Dot Notation | Methods are called on objects using a dot after the pbject name. | object.method(value); |
 | Concatenate | To combine strings with other strings and/or variables | String greeting = "Hello " +"My name is " + name + "."; |
+| Index | Location value of each character in a String or list, starting at 0 | "Hello" has indices 0(H), 1(e), 2 and 3, (ll), 4(o) |
+| Substring | Part of a larger String | "llo" is a substring of "Hello" |
+| int length() | Returns the number of characters in a String object | length() |
+| String substring(int from, int to) | Returns the substring at index from and ending at index (to - 1) | substring(indexStart, indexEnd) |
+| String substring(int from) | Returns the substring at index from and ending at the last index | substring(index) |
+| int indexOf(String str) | Returns the index of the first occurrence of str; returns -1 if not found | indexOf(str) |
+| boolean equals(String other) | Returns true if the string has the same sequence of characters as other; returns false otherwise | equals(str) |
+| int compareTo(String other) | compares two strings character by character based on the order of the alphabet; returns a negative integer if the string is less than other; returns zero if the string is equal to other; returns a positive integer if the string is greater than other | compareTo(str) |
+
+### String Notes
+  - Strings have indices (plural for index), which start at 0. "Hello" has indices 0(H), 1(e), 2 and 3, (ll), 4(o)
+  - Final index in a String is length -1;
+
 ---
 ## Personal Notes
 ### BendGameStudios file system.
