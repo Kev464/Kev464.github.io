@@ -1,6 +1,6 @@
 ## About Me
-Click here to learn more → [About Me](about.md)
-Or, click here to go to my notebook page → [Notebook](notebook.md)
-
+- [About Me](about.md)
+- [Notebook Year 1](notebookyear1.md)
+- [Notebook Robotics](notebookrobotics.md)
 ## Projects
 
