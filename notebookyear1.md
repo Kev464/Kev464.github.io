@@ -8,7 +8,6 @@
   - [Definitions with Structures](#flutter-definitions-with-structures)
 - [Code Definitions](#code-definitions)
 - [Java Notes](#java-notes)
-- [Personal Notes](#personal-notes)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Note 1 Section 1
