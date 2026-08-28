@@ -1,4 +1,4 @@
-Click here to learn more → [About Me](about.md)
+[Click here to return to the Index page](index.md)
 
 ## Main Index
 - [Flutter Notes](#flutter-notes)
@@ -150,12 +150,6 @@ Flutter allows us to easily develop highly interactive UI apps, compared to say 
   - Final index in a String is length -1;
 
 ---
-## Personal Notes
-### BendGameStudios file system.
-
-### Key Terms and Definitions
-| Term | Definiton | Conversion Rate | Other Notes |
-|--|--|--|--|
 
 ## Other
 At the top, begin a table of contents, Ex.:
