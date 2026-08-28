@@ -1,4 +1,4 @@
-[Click here to return to the Index page](index/index.md)
+[Click here to return to the Index page](../index/index.md)
 
 ## Main Index
 -
