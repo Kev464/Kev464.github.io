@@ -3,7 +3,7 @@ Hello! I am Kev.
 I'm just a dude developing random stuff. Welcome to my Repository!
 
 # So, What's in here?
-Go to [Index](index.md), it'll have everything I have (or am working on) in there.
+Go to [Index](index/index.md), it'll have everything I have (or am working on) in there.
 
 # Hobbies
 I like to program, obviously. I'll be developing various Flutter/Java programs, robotics, and other projects. I also participated in TSA, scoring Bronze last year. I am currently in TSA this year, in a secretary position. As a side note, I mod video games as a hobby, if your interested check out my other repos!
