@@ -4,3 +4,4 @@ Or, click here to go to my notebook page → [Notebook](notebook.md)
 
 ## Projects
 - Project 1: Days Gone Realistic Weapons
+- Project 2: Kev's Blank Manufactory
