@@ -9,7 +9,7 @@
 ## Note 1 Section 1
 ### Vex CS Level 1
 
-### What is Flutter?
+### Blocks
 - Definition:
 Flutter is an open-sourse UI software development kit, utilizing Dart as it's main language. It's developed by Google LLC, and is used for both web and app development.
   
