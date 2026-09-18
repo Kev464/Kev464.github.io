@@ -23,3 +23,9 @@
 | Wait Until Block | Waits until a certain amount of time has passed | Useful for exact timing |
 | If Then Block | If x event is TRUE, then y is executed | The building blocks of advanced decision making |
 | Forever Block | Repeats indefinitely | The first most choice for a program that needs to loop forever |
+---
+## Note 1 Section 2
+### Vex CS Level 1
+
+### Concepts
+---
