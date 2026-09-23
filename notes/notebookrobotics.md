@@ -43,6 +43,19 @@
 | Patterns | Loops with an order of sequence | Repeating squares, repeating loops, etc. |
 ---
 ## Note 1 Section 3
-### Vex CS Level 1
 
 ### Vocabulary
+---
+| VR Robot + Playground |  |  |
+| Programming Language + Project |  |  |
+| Behavior + Command |  |  |
+| Drivetrain |  |  |
+| Loop + Iteration |  |  |
+| Sensor + Bumper Sensor |  |  |
+| Boolean + Condition + TRUE/FALSE |  |  |
+| Distance Sensor + Threshold |  |  |
+| Coordinate Plane + X/Y Coordinates |  |  |
+| Location Sensor |  |  |
+| Comment |  |  |
+| Eye Sensor |  |  |
+| Conditional Statement |  |  |
