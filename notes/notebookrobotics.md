@@ -6,8 +6,8 @@
   - [Concepts](#concepts)
   - [Vocabulary](#vocabulary)
 
+## VEX CS Level 1
 ## Note 1 Section 1
-### Vex CS Level 1
 
 ### Blocks
 ---
@@ -25,7 +25,6 @@
 | Forever Block | Repeats indefinitely | The first most choice for a program that needs to loop forever |
 ---
 ## Note 1 Section 2
-### Vex CS Level 1
 
 ### Concepts
 ---
