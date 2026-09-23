@@ -46,6 +46,9 @@
 
 ### Vocabulary
 ---
+### Key Terms and Definitions
+| Term | Definition | Example / Notes |
+|--|--|--|
 | VR Robot + Playground |  |  |
 | Programming Language + Project |  |  |
 | Behavior + Command |  |  |
