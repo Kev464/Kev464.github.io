@@ -38,7 +38,7 @@
 | Booleans & Conditions | Yes / No situations | E.g., is target [RED]? If yes, x, if no, y |
 | Sense → Think → Act | Robot senses something, processes it, and then does something | An algorithm  |
 | Comparisons | Evaluating two different situations | It decides to pick which one to use |
-| Coordinates | It's position | GRID SQUARE 425 012; BEARING 299 |
+| Coordinates | It's position | There's not much else to say. |
 | Conditionals | Code that will run when something happens | Wall in the way, then x thing will occur |
 | Patterns | Loops with an order of sequence | Repeating squares, repeating loops, etc. |
 ---
@@ -47,18 +47,18 @@
 ### Vocabulary
 ---
 ### Key Terms and Definitions
-| Term | Definition | Example / Notes |
-|--|--|--|
-| VR Robot + Playground |  |  |
-| Programming Language + Project |  |  |
-| Behavior + Command |  |  |
-| Drivetrain |  |  |
-| Loop + Iteration |  |  |
-| Sensor + Bumper Sensor |  |  |
-| Boolean + Condition + TRUE/FALSE |  |  |
-| Distance Sensor + Threshold |  |  |
-| Coordinate Plane + X/Y Coordinates |  |  |
-| Location Sensor |  |  |
-| Comment |  |  |
-| Eye Sensor |  |  |
-| Conditional Statement |  |  |
+| Term | Definition |
+|--|--|
+| VR Robot + Playground | The VR robot is in the Playground window. You command the VR robot via code/ |
+| Programming Language + Project | The primary programming language is block based, but can also be Python. A project is just the name of the code's file. |
+| Behavior + Command | Commands influence Behavior, making the VR robot do various things, e.g., driving forward. Commands are given by code. |
+| Drivetrain | The electromechanical part that controls the acceleration of the VR robot. Is commanded by Code. |
+| Loop + Iteration | A block of code that repeats multiple times. |
+| Sensor + Bumper Sensor | This sends a boolean if it bumps into something. |
+| Boolean + Condition + TRUE/FALSE | A boolean is a true or false, essentially a two-way conditional. |
+| Distance Sensor + Threshold | This detects distance, gives a report. |
+| Coordinate Plane + X/Y Coordinates | The GPS location of the robot and various positions on the playground; only is 2D. |
+| Location Sensor | Gives coordinates of the robot in the x and y axis. |
+| Comment | Notes for future selves or for other people. |
+| Eye Sensor | This senses color, sending a boolean if it senses it. |
+| Conditional Statement | "If x happens, then y will be executed" is the best way to put it. |
