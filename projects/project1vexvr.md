@@ -10,7 +10,7 @@ Describe the goal of this lesson or challenge. What was your robot supposed to a
 ### My Solution
 Add a picture or screenshot showing your solution.
 
-![Description of my solution](projects/pictures/Screenshot 2026-08-20 092712.png)
+[Description of my solution](../pictures/Screenshot 2026-08-20 092712.png)
 
 ### What I Learned
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
