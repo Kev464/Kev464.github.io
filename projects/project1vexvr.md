@@ -9,7 +9,8 @@ This first challenge was to mark down my current age, then my future age, then m
 ### My Solution
 Add a picture or screenshot showing your solution.
 
-[Description of my solution](../pictures/Screenshot 2026-08-20 092712.png) 
+<img width="1920" height="1032" alt="Screenshot 2026-08-20 092712" src="https://github.com/user-attachments/assets/96b88915-7572-4a24-8efc-a946dba66118" />
+
 
 ### What I Learned
 This challenge taught me the fundamental basics of VexVR.
