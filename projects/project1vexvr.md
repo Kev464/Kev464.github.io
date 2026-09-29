@@ -2,16 +2,27 @@
 
 ## VexVR Projects - 2026
 ---
-## Lesson / Challenge: [Name]
+## Lesson / Challenge: [Find Your Age]
 ### Goal
 This first challenge was to mark down my current age, then my future age, then my birth month, day and year.
 
 ### My Solution
-Add a picture or screenshot showing your solution.
-
 <img width="1920" height="1032" alt="Screenshot 2026-08-20 092712" src="https://github.com/user-attachments/assets/96b88915-7572-4a24-8efc-a946dba66118" />
+
+### What I Learned
+This challenge taught me the fundamental basics of VexVR, such as movement and turning.
+---
+
+## VexVR Projects - 2026
+---
+## Lesson / Challenge: [Basketball Drills]
+### Goal
+Move forward double the amount per cycle.
+
+### My Solution
+<img width="1920" height="1032" alt="Screenshot 2026-08-24 084746" src="https://github.com/user-attachments/assets/c4756593-325e-42e2-8629-e0aef0cdd1be" />
 
 
 ### What I Learned
-This challenge taught me the fundamental basics of VexVR.
+How to use repeating 
 ---
