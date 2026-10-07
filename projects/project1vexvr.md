@@ -13,9 +13,6 @@ This first challenge was to mark down my current age, then my future age, then m
 This challenge taught me the fundamental basics of VexVR, such as movement and turning.
 
 ---
-
-## VexVR Projects - 2026
----
 ## Lesson / Challenge: [Basketball Drills]
 ### Goal
 Move forward double the amount per cycle.
