@@ -4,4 +4,4 @@
 - [Notebook Robotics](../notes/notebookrobotics.md)
 - [Engineering Notebook](../projects/engineeringnotebook.md)
 ## Projects
-
+- [VexVR page](../projects/project1vexvr.md)
