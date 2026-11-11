@@ -6,6 +6,9 @@
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
+- [Day 4](#day-4)
+- [Day 5](#day-5)
+- [Day 6](#day-6)
 
 ---------
 
@@ -33,6 +36,43 @@ I learned that the measuring tape measures in mm, cm, and in meters. What comes 
 ---------
 
 ## Day 2
+
+— Date: 11/02
+
+- ABSENT
+
+---------
+
+## Day 3
+
+— Date: 11/05/26
+
+- ABSENT
+
+---------
+
+## Day 4
+
+— Date: 11/10/26
+
+### 1. What was your goal or plan for today?
+- Disscuss measurments for robot rally
+  
+### 2. What did you work on today?
+- Discussed measurements for robot rally
+
+### 3. What tests or experiments did you perform?
+- N/A
+
+### 4. What challenges did you encounter?
+- Agreement over measurments
+
+### 5. What did you learn, and what comes next?
+- We really need better agreements over what distance system to use...
+
+---------
+
+## Day 5
 
 — Date: __________
 
@@ -67,7 +107,7 @@ I learned that the measuring tape measures in mm, cm, and in meters. What comes 
 
 ---------
 
-## Day 3
+## Day 6
 
 — Date: __________
 
