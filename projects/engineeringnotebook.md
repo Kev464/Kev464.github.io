@@ -83,18 +83,23 @@ I learned that the measuring tape measures in mm, cm, and in meters. What comes 
 — Date: 11/13/26
 
 Carboard measurement length: 10mm
+
 Carboard measurement width: 10mm
 
 Robot measurement length: 33cm
+
 Robot measurement width: 27cm
 
 Length scale: 33:10
+
 Width scale: 27:10
 
 Smallest width of the model racetrack: 228.6mm
+
 Apply scale (smallest width x scale): 1760cm
 
 Convert to cm: 1760cm
+
 Reflection: Scale is important in planning and design, but also tricky, especially when you weren't there. I took the information off of my teammate's worksheet, so I'm not exactly sure of its accuracy. However, Scale in summary is the ratio between two differently sized, but same, objects.
 
 ---------
