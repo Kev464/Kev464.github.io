@@ -106,6 +106,49 @@ Reflection: Scale is important in planning and design, but also tricky, especial
 
 ## Day 6
 
+— Date: 11/17/26
+
+### 1. What was your goal or plan for today?
+We were to fully build the physical track.
+
+### 2. What did you work on today?
+We worked on the physical track.
+
+
+### 3. What tests or experiments did you perform?
+We adjusted our measurements to fit in the room and fit 2 bots at the same time.
+
+### 4. What challenges did you encounter?
+We had issues with measurment.
+
+### 5. What did you learn, and what comes next?
+We learned the proper way to build a to-scale track, and now we'll have to connect our track to another one...
+
+---------
+
+## Day 7
+
+— Date: 11/19/26
+
+### 1. What was your goal or plan for today?
+Build a racetrack with another team and mark down tape.
+
+### 2. What did you work on today?
+We built a racetrack, marked down the required tape, and coordinated with another team.
+
+### 3. What tests or experiments did you perform?
+We experimented with different track designs.
+
+### 4. What challenges did you encounter?
+We had issues involving the amount of required space needed, but we solved that.
+
+### 5. What did you learn, and what comes next?
+We learned how to coordinate, and now we must fix our robot. 
+
+---------
+
+## Day 8
+
 — Date: 
 
 ### 1. What was your goal or plan for today?
@@ -139,9 +182,9 @@ Reflection: Scale is important in planning and design, but also tricky, especial
 
 ---------
 
-## Day 7
+## Day 9
 
-— Date: 11/13/26
+— Date: 
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
@@ -174,9 +217,9 @@ Reflection: Scale is important in planning and design, but also tricky, especial
 
 ---------
 
-## Day 8
+## Day 10
 
-— Date: 11/13/26
+— Date: 
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
